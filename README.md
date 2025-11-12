@@ -1,2 +1,2 @@
-This
-First Lab 
+This is the first lab on GitHub
+
