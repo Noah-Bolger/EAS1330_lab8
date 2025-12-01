@@ -1,2 +1,4 @@
-This is the first lab on GitHub
-Test Test Test 
+# This is a title
+## This is a subtitle
+*This text is italicized*
+**This text is bolded**
